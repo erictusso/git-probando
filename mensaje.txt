@@ -1,0 +1,2 @@
+Hola Mundo, me comunico desde mi compu
+Este archivo se llama mensaje.txt y esta dentro de mi carpeta "pronando-git" que antes estaba vacia 
